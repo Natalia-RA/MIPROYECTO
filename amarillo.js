@@ -1,0 +1,1 @@
+console.log("EL COLOR DEL SOL");
